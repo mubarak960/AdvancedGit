@@ -7,7 +7,7 @@ public class Origination {
 		System.out.println("Loan is conventional");
 		System.out.println("Loan is not heloc");
 		System.out.println("Loan is refinance");
-
+		System.out.println("Loan can be Construction");
 	}
 
 }
